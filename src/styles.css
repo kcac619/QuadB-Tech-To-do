@@ -1,0 +1,26 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #f2e6f7 0%, #ddd4ff 100%);
+}
+
+input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+button {
+    margin-left: 5px;
+    padding: 5px 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
